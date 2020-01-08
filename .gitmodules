@@ -1,0 +1,7 @@
+[submodule "localmarket"]
+	path = localmarket
+	url = https://github.com/meteor/localmarket
+	branch = master
+[submodule "todos"]
+	path = todos
+	url = https://github.com/meteor/todos
